@@ -37,13 +37,18 @@ A full-stack resume parsing application with a React frontend and Node.js backen
 ##  Setup Instructions
 
 ### 1. Clone the Repository
-```bash
+Clone the repository from GitHub and navigate into the project directory:
+
 git clone https://github.com/yourusername/Resume_Parsing_Application.git
 cd Resume_Parsing_Application
-2.2 Setup PostgreSQL Database
-Ensure that PostgreSQL is running on your system, either locally or on a cloud service like AWS RDS.
 
-Create a PostgreSQL database for the application:
+### 2. Backend Setup (Flask + NLP)
+## 2.1 Install Backend Dependencies
+Navigate to the Backend folder and install the necessary dependencies:
+
+cd Backend
+npm install
+
 
 
 createdb resume_parsing_db
