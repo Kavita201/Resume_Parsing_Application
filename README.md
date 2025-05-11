@@ -43,7 +43,7 @@ git clone https://github.com/yourusername/Resume_Parsing_Application.git
 cd Resume_Parsing_Application
 
 ### 2. Backend Setup (Flask + NLP)
-## 2.1 Install Backend Dependencies
+# 2.1 Install Backend Dependencies
 Navigate to the Backend folder and install the necessary dependencies:
 
 cd Backend
