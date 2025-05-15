@@ -39,7 +39,8 @@ A full-stack resume parsing application with a React frontend and Node.js backen
 ### 1. Clone the Repository
 Clone the repository from GitHub and navigate into the project directory:
 
-git clone https://github.com/yourusername/Resume_Parsing_Application.git
+git clone https://github.com/Kavita201/Resume_Parsing_Application.git
+
 cd Resume_Parsing_Application
 
 ### 2. Backend Setup (Flask + NLP)
